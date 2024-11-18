@@ -8,10 +8,8 @@
 }
 
 body{
-    body {
-  background: linear-gradient(135deg, orange 60%, cyan);
-}
-    background-color: var(--bg-color);
+    background: linear-gradient(135deg, orange 60%, cyan);
+    background-color: var(--bg-color); 
     color: var(--primary-color);
     font-family: var(--font);
     height: 100vh;
